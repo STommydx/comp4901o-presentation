@@ -1,5 +1,5 @@
 # COMP 4901O Presentation Resources
-This repo contains the materials of the presentation "JavaScript Prototype" for the COMP 4901O course. 
+This repo contains the materials of the presentation "JavaScript Prototype Pollution" for the COMP 4901O course. 
 
 ## Slides
 You can find the slides `slides.pdf` in the root folder of the repo.
